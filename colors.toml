@@ -1,0 +1,63 @@
+# Vaporwave — inspired by the user's neon sunset wallpaper
+mode = "dark"
+
+# Neon pink accent against a deep aubergine interface
+accent = "#FF66D9"
+selection = "#351B4B"
+muted = "#79538E"
+
+# Dark violet surfaces
+background = "#100B1D"
+dark_background = "#0B0715"
+darker_background = "#07040F"
+lighter_background = "#1B1228"
+
+# Pale lavender text stays readable over the dark surfaces
+foreground = "#F5E6FF"
+dark_foreground = "#A88DB9"
+light_foreground = "#D8B8EE"
+bright_foreground = "#FFF5FF"
+
+# The wallpaper's pink-to-cyan neon, echoed on active window borders
+hyprland_active_border = "rgba(ff62d8ee) rgba(56ddf5ee) 45deg"
+hyprland_inactive_border = "rgba(79538eaa)"
+
+# Vaporwave sunset and neon semantic colors
+red = "#FF5E83"
+yellow = "#FFD166"
+orange = "#FF956F"
+green = "#68E8B6"
+cyan = "#56DDF5"
+blue = "#829BFF"
+magenta = "#E879FF"
+brown = "#B77C76"
+
+bright_red = "#FF8FB2"
+bright_yellow = "#FFE39C"
+bright_green = "#91F4CC"
+bright_cyan = "#93EDFF"
+bright_blue = "#A9B7FF"
+bright_magenta = "#F3A3FF"
+
+# ANSI colors for terminals and legacy consumers
+color0 = "#100B1D"
+color1 = "#FF5E83"
+color2 = "#68E8B6"
+color3 = "#FFD166"
+color4 = "#829BFF"
+color5 = "#E879FF"
+color6 = "#56DDF5"
+color7 = "#F5E6FF"
+color8 = "#79538E"
+color9 = "#FF8FB2"
+color10 = "#91F4CC"
+color11 = "#FFE39C"
+color12 = "#A9B7FF"
+color13 = "#F3A3FF"
+color14 = "#93EDFF"
+color15 = "#FFF5FF"
+
+# Compatibility aliases for older Omarchy templates
+cursor = "#FFF5FF"
+selection_foreground = "#FFF5FF"
+selection_background = "#351B4B"
